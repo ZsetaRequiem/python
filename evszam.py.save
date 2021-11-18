@@ -1,0 +1,3 @@
+year = int(input("Kerem adjom meg egy szamot"))
+if year < 1852
+	print("Nem Gergő
